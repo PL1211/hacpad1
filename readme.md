@@ -24,7 +24,15 @@
 
 Wire (24-28 AWG)
 
+## Pictures
 
+![Screenshot 1](PICTURES/Screenshot%202025-11-27%20130328.png)
 
+![Screenshot 2](PICTURES/Screenshot%202025-11-27%20130346.png)
 
+![Screenshot 3](PICTURES/Screenshot%202025-11-27%20130437.png)
+
+![Screenshot 4](PICTURES/Screenshot%202025-11-27%20130503.png)
+
+![Screenshot 5](PICTURES/Screenshot%202025-11-27%20130524.png)
 
