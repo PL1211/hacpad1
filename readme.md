@@ -1,3 +1,10 @@
+XIAO RP2040 6-Key Macropad BOM
+
+A simple 6-button macropad with rotary encoder, RGB LEDs, and OLED display running KMK firmware on CircuitPython. I made this to control my music easier with play/pause buttons and volume up, down, and mute.
+
+
+
+
 1x Seeed XIAO RP2040
 
 1x Header pins for the XIAO (usually included, do NOT solder the board flat)
