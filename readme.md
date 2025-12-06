@@ -43,3 +43,5 @@ Wire (24-28 AWG)
 
 ![Screenshot 5](PICTURES/Screenshot%202025-11-27%20130524.png)
 
+![Screenshot 6](PICTURES/pcb+cad.png)
+
